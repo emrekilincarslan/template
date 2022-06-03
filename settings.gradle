@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Hacketon"
 include ':presentation'
 include ':base-presentation'
+include ':base-service'

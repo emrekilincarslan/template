@@ -79,8 +79,9 @@ dependencies {
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:1.1.5")
 
     implementation(project(":base-presentation"))
+    implementation(project(":base-service"))
     /*implementation(project(":service"))
-    implementation(project(":base-service"))*/
+    */
 
     kapt(Dependencies.hiltCompiler)
    // kapt(Dependencies.permissionsDispatcherProcessor)
