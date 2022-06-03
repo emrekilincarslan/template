@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_calendar_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_home_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_more_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_news_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_search_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_title1_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_title2_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_title3_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_title4_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/bottom_nav_title5_selector.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/ic_home.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/ic_launcher_background.xml" value="0.114" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/ic_title1.xml" value="0.1535" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/ic_title1_selected.xml" value="0.1535" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/ic_title2.xml" value="0.1375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/drawable/ic_title2_selected.xml" value="0.1375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/layout/activity_main.xml" value="0.1015625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/layout/fragment_title1.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/layout/fragment_title2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Hacketon/presentation/src/main/res/menu/bottom_navigation.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

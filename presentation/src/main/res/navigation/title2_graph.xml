@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/title2"
+    app:startDestination="@id/title2_home_screen">
+    <fragment
+        android:id="@+id/title2_home_screen"
+        android:name="com.scalefocus.hacketon.main.title2.Title2Fragment"
+        android:label="Page 2 Title"
+        tools:layout="@layout/fragment_title2">
+    </fragment>
+</navigation>

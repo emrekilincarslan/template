@@ -1,0 +1,1 @@
+C:\Users\Administrator\AndroidStudioProjects\Hacketon - Git\buildSrc\build\classes\kotlin\main\AppConfiguration.class;C:\Users\Administrator\AndroidStudioProjects\Hacketon - Git\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Users\Administrator\AndroidStudioProjects\Hacketon - Git\buildSrc\build\classes\kotlin\main\Versions.class

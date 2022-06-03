@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="background">@color/fsc_blue_light</color>
+    <color name="card_background">@color/fsc_white</color>
+    <color name="colorOn">@color/fsc_black</color>
+    <color name="progress_bar_tint">@color/fsc_blue</color>
+
+    <color name="icon">@color/fsc_blue</color>
+    <color name="icon_selected">@color/fsc_blue_dark</color>
+
+    <!--    Bottom navigation-->
+    <color name="bottom_nav_background">@color/fsc_white</color>
+    <color name="bottom_nav_icon">@color/fsc_grey</color>
+    <color name="bottom_nav_icon_selected">@color/fsc_blue</color>
+    <color name="bottom_nav_icon_hover">@color/fsc_blue_darker</color>
+    <color name="tab_selected_text">@color/fsc_blue</color>
+    <color name="tab_indicator">@color/fsc_grey</color>
+    <color name="divider">@color/fsc_blue</color>
+
+
+
+</resources>

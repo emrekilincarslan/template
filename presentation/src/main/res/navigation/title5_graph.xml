@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/title5_graph"
+    app:startDestination="@id/title1_home_screen">
+    <fragment
+        android:id="@+id/title1_home_screen"
+        android:name="com.scalefocus.hacketon.main.title1.Title1Fragment"
+        android:label="Title 1"
+        tools:layout="@layout/fragment_title1">
+    </fragment>
+</navigation>

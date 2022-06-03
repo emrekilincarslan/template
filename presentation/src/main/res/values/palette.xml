@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fsc_blue_light">#EFF6FE</color>
+    <color name="fsc_blue_a400">#29B6FC</color>
+    <color name="fsc_blue">#4C6280</color>
+    <color name="fsc_blue_dark">#4C6280AA</color>
+    <color name="fsc_blue_darker">#263238</color>
+    <color name="fsc_green">#00A288</color>
+    <color name="fsc_grey_light">#9D9D9D</color>
+    <color name="fsc_grey">#888888</color>
+    <color name="fsc_grey_dark">#3F3F3F</color>
+    <color name="fsc_red">#b10538</color>
+    <color name="fsc_black">#000000</color>
+    <color name="fsc_white">#FFFFFF</color>
+</resources>
